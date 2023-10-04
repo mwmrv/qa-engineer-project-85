@@ -1,0 +1,52 @@
+---
+- summary: |
+    Проверка регистрации на сайте с помощю почты и логина
+  status: pass
+
+- summary: |
+    Проверка регистрации пользователя с помощью профиля на GitHub
+  status: pass
+
+- summary: |
+    Проверка регистрации пользователя с помощью профиля на Discord
+  status: pass
+
+- summary: |
+    Проверка регистрации пользователя с существующими данными
+  status: pass
+
+- summary: |
+    Проверка входа на сайте с помощю логина и пароля
+  status: pass
+
+- summary: |
+    Проверка входа пользователя с помощью профиля на GitHub
+  status: pass
+
+- summary: |
+    Проверка входа пользователя с помощью профиля на Discord
+  status: pass
+
+- summary: |
+    Проверка входа на сайте с неверным паролем
+  status: pass
+
+- summary: |
+    Проверка входа на сайте с несуществующей почтой
+  status: pass
+
+- summary: |
+    Проверка работы 'Forgot your password?' с существующей почтой
+  status: pass
+
+- summary: |
+    Проверка работы 'Forgot your password?' с несуществующей почтой
+  status: pass
+
+- summary: |
+      Проверка работы клавиши 'Try simple battle'
+  status: pass
+
+- summary: |
+      Работа клавиши 'Support'
+  status: pass
