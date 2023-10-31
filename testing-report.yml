@@ -40,6 +40,10 @@
   status: pass
 
 - summary: |
+    Проверка работы ссылки для восстановления пароля
+  status: pass
+  
+- summary: |
     Проверка работы 'Forgot your password?' с несуществующей почтой
   status: pass
 
@@ -49,4 +53,64 @@
 
 - summary: |
       Работа клавиши 'Support'
+  status: pass
+
+- summary: |
+      Отображается список лидеров по рейтингу за неделю
+  status: pass
+
+- summary: |
+      Отображается список лидеров по рейтингу за месяц
+  status: pass
+
+- summary: |
+      Отображается список лидеров по рейтингу за все время
+  status: pass
+
+- summary: |
+      Присоединение к созданной игре как участник
+  status: pass
+
+- summary: |
+      Создание игры с другим пользователем
+  status: pass
+
+- summary: |
+      Создание игры с другом
+  status: pass
+
+- summary: |
+      Создание игры с ботом
+  status: pass
+
+- summary: |
+      Ход игры
+  status: pass
+
+- summary: |
+      Победа в игре
+  status: pass
+
+- summary: |
+      Проигрыш в игре
+  status: pass
+
+- summary: |
+      Сдаться в игре
+  status: pass
+
+- summary: |
+      Вышло время в игре
+  status: pass
+
+- summary: |
+      Вернуться в игру
+  status: pass
+
+- summary: |
+      Изменение языка задания в игре
+  status: pass
+
+- summary: |
+    Выход в лобби
   status: pass
