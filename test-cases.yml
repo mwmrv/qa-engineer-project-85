@@ -400,7 +400,7 @@
   test-data: |
     Игра
   steps:
-    - Ждем, пока закончится время
+    - Ждем завершение таймера
   expected-result: |
       Появляется надпись Time is up. There are no winners in the game
 
